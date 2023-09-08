@@ -1,3 +1,5 @@
+Deployed application website link: https://haystek-project.000webhostapp.com
+
 This Test is to demonstrate the understanding of PHP, HTML, CSS, JS and JSON.
 
 Using the example layout provided in either "sourcefiles/example.png" or "sourcefiles/example.psd", perform the following actions:
